@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    /* height: 100vh; */
+  
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    background-color: black; 
+    padding: 10px;
+}
+
+.btn{
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn input{
+    padding: 10px;
+}
+img{
+
+/* margin-top: 150px; */
+width: 350px;
+
+}
